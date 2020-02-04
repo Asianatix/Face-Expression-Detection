@@ -1,4 +1,4 @@
-# Face-Expression-Detection
+# Face-Expression-Detection (Basic)
 Data link: https://drive.google.com/drive/folders/16UjLYyp9olGSmnGBpAaDeZ2W981CZD_k?usp=sharing
 
 The database contains 213 images of 7 facial expressions (6 basic facial expressions + 1
